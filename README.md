@@ -1,33 +1,6 @@
-<p align="center">
-  <img
-    src="https://img.shields.io/github/last-commit/MigueldsBatista/conecta-cesar"
-    alt="Last commit"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/github/repo-size/MigueldsBatista/conecta-cesar"
-    alt="Repository Size"
-  />
-  <img
-    src="https://img.shields.io/github/languages/count/MigueldsBatista/conecta-cesar"
-    alt="Language Count"
-  />
-  <img
-    src="https://img.shields.io/github/commit-activity/t/MigueldsBatista/conecta-cesar"
-    alt="Commit Activity"
-  />
-  <a href="LICENSE"
-    ><img
-      src="https://img.shields.io/github/license/MigueldsBatista/conecta-cesar"
-      alt="License"
-  /></a>
-</p>
-
 # Conecta-Cesar
 
-Bem vindo ao repositório do nosso projeto Conecta Cesar. Nossa plataforma está sendo desenvolvida como parte da disciplina de Fundamentos de Software (FDS) para estabelecer uma conexão mais eficaz nas escolas entre os alunos, professoras e a própria instituição de ensino. Este novo projeto, chamado **Conecta-Cesar**, visa principalmente aprimorar a praticidade e a experiência do usuário.
+Nossa plataforma está sendo desenvolvida como parte da disciplina de Fundamentos de Software (FDS) para estabelecer uma conexão mais eficaz nas escolas entre os alunos, professoras e a própria instituição de ensino. Este novo projeto, chamado **Conecta-Cesar**, visa principalmente aprimorar a praticidade e a experiência do usuário.
 
 ## ⚙️ Principais Funcionalidades
 
